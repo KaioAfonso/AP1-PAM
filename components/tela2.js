@@ -23,7 +23,7 @@ function Tela2({ navigation }) {
           <Text style={styles.titulo}>Currículo</Text>
         </View>
 
-        <Text style={[styles.subTitulo, {margin:25, marginTop: 25}]}>Experiêcia profissional</Text>
+        <Text style={[styles.subTitulo, {margin:25, marginTop: 25}]}>Experiência profissional</Text>
 
         <View style={styles.container}>
           <Card style={[styles.Bloco,{marginBottom: 30}]}>
